@@ -1,6 +1,7 @@
 ---
 name: status-report
 description: Turns a raw activity log into a daily status report with Done, In progress, Blockers and Next sections. User when asked for a status report or daily update. 
+---
 
 #Daily Status Report
 
